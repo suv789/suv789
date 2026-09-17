@@ -209,23 +209,23 @@ Building ETL pipelines, SQL-driven solutions, and Power BI dashboards to support
 
 **Databricks**
 
-[Databricks Profile Certificate](https://credentials.databricks.com/profile/suvajitbera300073/wallet)
+[![Databricks](https://img.shields.io/badge/Databricks-Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/suvajitbera300073/wallet)
 
 **HackerRank**
 
-[HackerRank SQL Test](https://www.hackerrank.com/certificates/7c7458b6dc4c)
+[![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Test-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/7c7458b6dc4c)
 
 **Google**
 
-[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/KBCXDX6ELGDK)
+[![Google](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/KBCXDX6ELGDK)
 
 **Oracle**
 
-[Oracle Cloud Infrastructure AI Foundation Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6948334&trackId=OCI25AICFA&key=7ad994ee9fe5d495c2f0904edc5c242f8f5eafc9)
+[![Oracle](https://img.shields.io/badge/Oracle-Cloud%20AI%20Foundation%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6948334&trackId=OCI25AICFA&key=7ad994ee9fe5d495c2f0904edc5c242f8f5eafc9)
 
 **IBM**
 
-[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/PS7QA4H59F68)
+[![IBM](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/PS7QA4H59F68)
 
 </div>
 
