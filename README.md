@@ -30,8 +30,6 @@
 
 ## 🧠 About Me
 
-<img align="right" width="35%" src="https://img.shields.io/badge/-%20-1e1e2e?style=flat-square"/>
-
 I'm a **Data Analyst with 2+ years of hands-on experience** building end-to-end **ETL pipelines, SQL-driven solutions, and Power BI dashboards** that convert raw operational data into decisions leadership can act on. My core strength lies in the **data → insight → impact pipeline**: sourcing and modeling messy data, engineering clean pipelines, and shipping dashboards that get used, not just viewed.
 
 I'm currently expanding into **modern Data Engineering** — Microsoft Fabric, Databricks, and PySpark — to build lakehouse-scale analytics systems, alongside growing exposure to **AI/ML and LLM-based tooling** to bring intelligent automation into analytics workflows.
@@ -99,15 +97,15 @@ I'm currently expanding into **modern Data Engineering** — Microsoft Fabric, D
 <summary><b>🏪 AI-Powered Retail Chain Dashboard</b></summary>
 <br/>
 
-End-to-end analytics dashboard combining traditional BI with AI-driven insights for a multi-store retail chain — sales trends, inventory signals, and predictive indicators surfaced in one interface.
+End-to-end analytics dashboard combining traditional BI with an AI-powered chatbot for a multi-store retail chain — sales trends, inventory signals, and natural-language querying surfaced in one interface.
 
 | Metric | Details |
 |--------|---------|
-| Stack | Python, Pandas, Power BI, SQL |
+| Stack | Python, Pandas, Streamlit, Gemini API, Neon (PostgreSQL) |
 | Scale | Multi-store retail dataset, multiple KPI domains |
-| Performance | Optimized queries and DAX measures for fast dashboard refresh |
-| Security | Role-based access via Power BI workspace permissions |
-| Impact | Centralized decision-making across store performance & inventory |
+| Performance | Cloud-hosted Neon database for fast, scalable querying |
+| Security | Gemini API key managed via environment variables, cloud DB access control |
+| Impact | AI chatbot lets users query retail data in natural language, no SQL needed |
 
 🔗 [github.com/suv789/AI-Powered-Retail-Chain-Dashboard](https://github.com/suv789/AI-Powered-Retail-Chain-Dashboard)
 
@@ -208,18 +206,26 @@ Building ETL pipelines, SQL-driven solutions, and Power BI dashboards to support
 ## 🏆 Certifications
 
 <div align="center">
+  
+**Databricks**
+
+![Databricks Profile](https://credentials.databricks.com/profile/suvajitbera300073/wallet)
+
+**HackerRank**
+
+![HackerRank SQL Test](https://www.hackerrank.com/certificates/7c7458b6dc4c)
 
 **Google**
 
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-6D28D9?style=for-the-badge&logo=google&logoColor=white)
+![Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KBCXDX6ELGDK)
 
 **Oracle**
 
-![Oracle Cloud AI](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20AI%20Foundation%20Associate-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud AI](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6948334&trackId=OCI25AICFA&key=7ad994ee9fe5d495c2f0904edc5c242f8f5eafc9)
 
 **IBM**
 
-![IBM Data Science](https://img.shields.io/badge/IBM-Data%20Science-8B5CF6?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/PS7QA4H59F68)
 
 </div>
 
