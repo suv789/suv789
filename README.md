@@ -206,26 +206,26 @@ Building ETL pipelines, SQL-driven solutions, and Power BI dashboards to support
 ## 🏆 Certifications
 
 <div align="center">
-  
+
 **Databricks**
 
-![Databricks Profile](https://credentials.databricks.com/profile/suvajitbera300073/wallet)
+[Databricks Profile Certificate](https://credentials.databricks.com/profile/suvajitbera300073/wallet)
 
 **HackerRank**
 
-![HackerRank SQL Test](https://www.hackerrank.com/certificates/7c7458b6dc4c)
+[HackerRank SQL Test](https://www.hackerrank.com/certificates/7c7458b6dc4c)
 
 **Google**
 
-![Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KBCXDX6ELGDK)
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/KBCXDX6ELGDK)
 
 **Oracle**
 
-![Oracle Cloud AI](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6948334&trackId=OCI25AICFA&key=7ad994ee9fe5d495c2f0904edc5c242f8f5eafc9)
+[Oracle Cloud Infrastructure AI Foundation Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6948334&trackId=OCI25AICFA&key=7ad994ee9fe5d495c2f0904edc5c242f8f5eafc9)
 
 **IBM**
 
-![IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/PS7QA4H59F68)
+[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/PS7QA4H59F68)
 
 </div>
 
