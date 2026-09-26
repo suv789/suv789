@@ -49,7 +49,7 @@ When I'm not working with data, I enjoy Reading books and learn new tools. I lov
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  
 </p>
 
 #### Business Intelligence & Analytics
