@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Data+Engineering;2%2B+Years+of+Data+Analytics+Experience" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -24,14 +24,14 @@ When I'm not working with data, I enjoy Reading books and learn new tools. I lov
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Data Analytics Projects:** Building end-to-end analytics projects using SQL, Python, Power BI, and Databricks.
+- **AI-Powered BI:** Exploring how AI and LLMs can be integrated into Business Intelligence and analytics workflows.
+- **Portfolio Development:** Building real-world data projects to strengthen my analytics and BI portfolio.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **Machine Learning:** Learning core machine learning concepts and implementing models using Python and Scikit-learn.
+- **Advanced Data Engineering:** Expanding my knowledge of Databricks, PySpark, Medallion Architecture, and modern data pipelines.
 
 ## 🛠️ Technical Skillset
 
